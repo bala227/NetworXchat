@@ -1,0 +1,30 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "body-parser": "^2.2.0",
+    "connect-mongodb-session": "^5.0.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "express-xml-bodyparser": "^0.3.0",
+    "fs": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "libxmljs": "^1.0.11",
+    "libxmljs2": "^0.35.0",
+    "mongoose": "^8.13.1",
+    "neo4j-driver": "^5.28.1",
+    "xml2js": "^0.6.2",
+    "xmldom": "^0.6.0",
+    "xsd-schema-validator": "^0.11.0"
+  }
+}
